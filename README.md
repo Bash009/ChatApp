@@ -28,7 +28,9 @@ cd /client
 npm start
 ```
 
+Local App:
 
+![](https://github.com/Bash009/ChatApp/blob/main/chatapp.gif)
 
 
 <!-- Result-2
