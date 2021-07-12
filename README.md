@@ -1,4 +1,4 @@
-# React App Using Socket.io, NodeJS
+# React App Using Socket.io, NodeJS, React
 
 
 ## Introduction
