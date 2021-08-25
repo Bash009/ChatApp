@@ -4,6 +4,7 @@
 ## Introduction
 
 Simple Chat App to chat locally with your firends
+Enable CORS using extention or manually enable it.
 
 ## How to run
 
